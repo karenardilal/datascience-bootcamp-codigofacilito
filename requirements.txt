@@ -1,2 +1,0 @@
-wordcloud
-pandas_profiling==3.6.2
